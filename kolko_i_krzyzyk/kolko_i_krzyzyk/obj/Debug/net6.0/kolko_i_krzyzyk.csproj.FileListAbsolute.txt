@@ -1,0 +1,14 @@
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\bin\Debug\net6.0\kolko_i_krzyzyk.exe
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\bin\Debug\net6.0\kolko_i_krzyzyk.deps.json
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\bin\Debug\net6.0\kolko_i_krzyzyk.runtimeconfig.json
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\bin\Debug\net6.0\kolko_i_krzyzyk.dll
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\bin\Debug\net6.0\kolko_i_krzyzyk.pdb
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\net6.0\kolko_i_krzyzyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\net6.0\kolko_i_krzyzyk.AssemblyInfoInputs.cache
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\net6.0\kolko_i_krzyzyk.AssemblyInfo.cs
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\net6.0\kolko_i_krzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\net6.0\kolko_i_krzyzyk.dll
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\net6.0\refint\kolko_i_krzyzyk.dll
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\net6.0\kolko_i_krzyzyk.pdb
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\net6.0\kolko_i_krzyzyk.genruntimeconfig.cache
+C:\Users\krzys\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\net6.0\ref\kolko_i_krzyzyk.dll

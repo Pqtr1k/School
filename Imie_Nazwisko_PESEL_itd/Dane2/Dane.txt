@@ -1,0 +1,5 @@
+Imie: p
+Nazwisko: k
+PESEL: 05252706030
+System.Action
+[System.Char]
